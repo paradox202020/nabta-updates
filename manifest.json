@@ -1,9 +1,9 @@
-﻿{
+{
     "schema":  1,
     "version":  "0.7.0",
     "minimumNativeVersion":  "0.7.0",
     "url":  "https://raw.githubusercontent.com/paradox202020/nabta-updates/main/bundles/0.7.0.zip",
-    "sha256":  "7382a31859c4e828b1de2247205f3210d3dd2d95f1bc27d85f68dd11547ab81f",
-    "publishedAt":  "2026-08-01T14:57:51.6963738Z",
+    "sha256":  "b4be4cb407a3effca89066e84374e8750d968399e083873499298d48001e8e08",
+    "publishedAt":  "2026-08-01T15:01:50.3056798Z",
     "notes":  "Nabta 0.7.0"
 }
