@@ -1,9 +1,9 @@
 {
     "schema":  1,
-    "version":  "0.8.2",
+    "version":  "0.9.0",
     "minimumNativeVersion":  "0.7.0",
-    "url":  "https://raw.githubusercontent.com/paradox202020/nabta-updates/main/bundles/0.8.2.zip",
-    "sha256":  "3bcde8f0b0dae2cb58dafc4962806913174637e882e153e70fe1c3c7ce42c71e",
-    "publishedAt":  "2026-08-01T16:12:13.5688034Z",
-    "notes":  "Nabta 0.8.2"
+    "url":  "https://raw.githubusercontent.com/paradox202020/nabta-updates/main/bundles/0.9.0.zip",
+    "sha256":  "8f078ab82cdc853ab39eac2d5218fd9813acddd31bc544bc71071c93c1f4a4e8",
+    "publishedAt":  "2026-08-01T16:21:52.6969091Z",
+    "notes":  "Nabta 0.9.0"
 }
